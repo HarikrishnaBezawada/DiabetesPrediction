@@ -9,7 +9,6 @@ Original file is located at
 Lets Import all the necessary Libraries
 """
 
-!pip install deepforest
 
 from keras.models import Sequential
 from keras.layers import Dense
